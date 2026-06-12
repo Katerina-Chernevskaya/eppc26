@@ -6,11 +6,11 @@ European Power Platform Conference 2026 | Workshop
 
 👨‍💻 Audience: Developers, Solution Architects, Power Platform or Microsoft practitioners
 
-🗓️ Date: June 30, 2026
+🗓️ Date: June 29, 2026
 
 📍 Where: Bella Center, Copenhagen, Denmark
 
-🎟️ [Get a ticket](https://espc.tech/conference/eppc-2026/tickets/)!
+🎟️ **SOLD OUT** [Get a ticket](https://espc.tech/conference/eppc-2026/tickets/)!
 
 ## Workshop prerequisites
 
